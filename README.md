@@ -23,3 +23,10 @@ six==1.15.0
 SQLAlchemy==1.3.18
 
 Werkzeug==1.0.1
+
+
+https://twitter.com/Lakshman_12_10?t=zyrMQPUvtCrDq4SLuMHY1g&s=08
+https://codepen.io/lakshmanshankar
+https://github.com/Lakshmanshankar
+https://lakshmanshankar.github.io/corona-data/
+https://github.com/Lakshmanshankar/corona-data
